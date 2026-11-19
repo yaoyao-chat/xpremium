@@ -1,0 +1,13 @@
+title: 'X Premium 2026：三档价格、和 Grok 三合一是什么关系'
+description: 'X Premium 2026 说明：三档价格、并入 Grok 三合一后各档带哪些 X 权益、蓝标为什么没出来；国内可在瑶瑶ai训练师商城开 Grok Premium 三合一 ¥239，含 X 会员（店主自营）'
+lang: zh-CN
+theme: jekyll-theme-cayman
+exclude:
+  - LICENSE
+
+# 正本是 GitHub 仓库页，网页版的 canonical 指回 github.com 地址（jekyll-seo-tag 读 canonical_url）
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/yaoyao-chat/xpremium"
